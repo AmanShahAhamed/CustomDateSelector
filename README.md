@@ -33,7 +33,3 @@ Contributions are welcome! To contribute:
 6. **Open a Pull Request**.
 
 Please make sure your code follows the project’s coding standards and includes relevant tests.
-
-
-
-
